@@ -1,3 +1,1 @@
-# platform.engine.game
-
-map engine to platform game
+compile any bash file to shcx binary bash
